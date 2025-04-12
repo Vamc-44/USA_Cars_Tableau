@@ -1,4 +1,4 @@
-# 🚗 Vehicle Auction Data Cleaning, Analysis & Visualization
+# USA Cars data cleaning 🚗
 
 This repository contains a Jupyter Notebook that performs **data cleaning, preprocessing, and transformation** on a vehicle auction dataset. The dataset includes details such as brand, model, price, condition, mileage, and more — aimed at preparing it for further analysis, visualization, or machine learning tasks.
 
