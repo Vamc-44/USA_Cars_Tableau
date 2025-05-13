@@ -7,7 +7,8 @@ This repository contains a Jupyter Notebook that performs **data cleaning, prepr
 - `Preprocessing.ipynb` – Jupyter notebook with all data cleaning steps
 - `USA_cars_datasets.csv` – Raw dataset used for cleaning
 - `cleaned_cars_dataset.csv` - Cleaned dataset
-- Tableau dashboard (link or screenshots) – Interactive visualization of key insights
+- `Dashboard.twbx` - A Visual Exploration of US Used-Car Sales Trends
+- `Report.pdf` - A complete document
 
 ## 🔧 Features
 
