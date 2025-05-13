@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that performs **data cleaning, preprocessing, and transformation** on a car auction dataset. The dataset includes details such as brand, model, price, condition, mileage, and more — aimed at preparing it for further analysis, visualization, or machine learning tasks.
 
-## 📁 Files
+## Files
 
 - `Preprocessing.ipynb` – Jupyter notebook with all data cleaning steps
 - `USA_cars_datasets.csv` – Raw dataset used for cleaning
@@ -10,7 +10,7 @@ This repository contains a Jupyter Notebook that performs **data cleaning, prepr
 - `Dashboard.twbx` - A Visual Exploration of US Used-Car Sales Trends
 - `Report.pdf` - A complete document
 
-## 🔧 Features
+## Features
 
 ✔️ Column renaming and formatting  
 ✔️ Title casing for string columns  
@@ -21,7 +21,7 @@ This repository contains a Jupyter Notebook that performs **data cleaning, prepr
 ✔️ Handling potential data entry issues in `model` names  
 ✔️ Visualizing data using **Tableau dashboards**
 
-## 📊 Visualizations with Tableau
+## Visualizations with Tableau
 
 - Price distribution by brand and model  
 - Mileage trends over time  
@@ -31,14 +31,14 @@ This repository contains a Jupyter Notebook that performs **data cleaning, prepr
 
 > Tableau dashboards offer dynamic insights and allow for real-time interaction with the dataset.
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 
 - Python 🐍  
 - pandas 🧼  
 - Jupyter Notebook 📓  
 - Tableau 📊
 
-## 🧠 Next Steps
+## Advancements
 
 - Add machine learning models (e.g., price prediction, time-to-sell estimation)  
 - Build automated ETL pipeline  
